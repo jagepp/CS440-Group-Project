@@ -2,6 +2,7 @@
 Contributors:  Jay Podapati, Bhumit Patel, Michael Ahmadi, Jacob Gepp
 
 Demo Completed April, 2021
+Created in Using Maven and JavaFX in Eclipse IDE
 
 1. Project Description
 Battleship Legends is a modification of the classic board game Battleship with
