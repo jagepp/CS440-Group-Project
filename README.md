@@ -1,5 +1,6 @@
 # CS440-Group-Project
 Contributors:  Jay Podapati, Bhumit Patel, Michael Ahmadi, Jacob Gepp
+
 Demo Completed April, 2021
 
 1. Project Description
